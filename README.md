@@ -1,1 +1,1 @@
-# code-chalenge
+# code-challenge

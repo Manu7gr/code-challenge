@@ -19,7 +19,8 @@
     
 # NodeJs
   Sample hello world application
-  To run - Use dockerfile to build which is in nodejs directory and run the image.
+  
+  - > To run - Use dockerfile to build which is in nodejs directory and run the image.
 
 # Jenkinsfile
   Jenkinsfile to 

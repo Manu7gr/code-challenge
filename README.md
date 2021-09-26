@@ -2,10 +2,15 @@
 # Terraform
   To create EC2 instance using terraform run below commands inside terraform directory.
    1.terraform init
+  
    2.terraform validate (To validate the terraform scripts)
+   
    3.terraform plan
+   
    4.terraform apply
+  
   To clean up
+   
    1.terraform destroy
    
 # Ansible

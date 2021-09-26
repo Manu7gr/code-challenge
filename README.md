@@ -2,17 +2,17 @@
 # Terraform
   To create EC2 instance using terraform run below commands inside terraform directory.
    
-   1.terraform init
+   - > terraform init
   
-   2.terraform validate (To validate the terraform scripts)
+   - > terraform validate (To validate the terraform scripts)
    
-   3.terraform plan
+   - > terraform plan
    
-   4.terraform apply
+   - > terraform apply
   
   To clean up
    
-   1.terraform destroy
+   - > terraform destroy
    
 # Ansible
   To install Java8 and jenkins in AWS EC2 use playbooks which is in ansible-playbooks directory.  
